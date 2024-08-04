@@ -1,0 +1,714 @@
+"Kód štátu";"Názov štátu";"Kód oblasti";"Kód kraja";"Názov oblasti";"Názov kraja";"Pohlavie";"Ekonomické vekové skupiny";"Vzdelanie";"abs."
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;predproduktívny vek (0-14 rokov);nezistené;585
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;15080
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;27
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;46375
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);nezistené;17471
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);215
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;2598
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;17567
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);684
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);3068
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;27613
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;4428
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);154
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;14697
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;32808
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;15049
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);3
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);9807
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);1159
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);1872
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);34
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);9197
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";67837
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";6636
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;536
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);nezistené;2687
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);37
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;345
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;2390
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);6
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);815
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;10983
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;1071
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);132
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;2509
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;6527
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;1586
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie (bližšie neuvedené);1
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);1827
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);423
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);745
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);33
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);395
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";14772
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";3486
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;34
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;predproduktívny vek (0-14 rokov);nezistené;550
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;14757
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;80
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;43537
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);nezistené;11648
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);151
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;2167
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;17011
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);153
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);2477
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;16350
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;3209
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);140
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;7984
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;36784
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;18490
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);3
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);8448
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);2682
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);3037
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);35
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);11458
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";89770
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";6982
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;358
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);nezistené;3329
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);115
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;947
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;9788
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);2036
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;9382
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;2717
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);177
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;2271
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;14061
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;7171
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);2713
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);1389
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);1088
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);15
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);511
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";14747
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";2454
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;61
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;predproduktívny vek (0-14 rokov);nezistené;365
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;11522
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;5
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;30984
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);nezistené;11327
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);241
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;4068
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;19356
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);598
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);3849
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;46359
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;6769
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);66
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;16931
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;30495
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;8973
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);2
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);9626
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);1138
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);1161
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);17
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);5239
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";25480
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";1764
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;755
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);nezistené;1320
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);64
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;707
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;4524
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);2
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);1017
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;15557
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;1452
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);52
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;2434
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;5043
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;1011
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);1198
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);306
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);403
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);1
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);180
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";4620
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";456
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;84
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;predproduktívny vek (0-14 rokov);nezistené;418
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;11313
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;61
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;28796
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);nezistené;7184
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);233
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;3705
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;20948
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);180
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);3115
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;27858
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;4639
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);67
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;10352
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;35803
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;13662
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);1
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);8501
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);2753
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);2257
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);11
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);8416
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";36786
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";1891
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;556
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);nezistené;1669
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);144
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;1936
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;17513
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);2
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);2242
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;10760
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;1917
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);43
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;1812
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;8760
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;4315
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);1642
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);914
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);545
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);4
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);221
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";4181
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";253
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;108
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;predproduktívny vek (0-14 rokov);nezistené;426
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;11530
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;8
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;29750
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);nezistené;10650
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);213
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;2817
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;15308
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);642
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);3186
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;47737
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;5488
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);81
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;22011
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;32761
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;8535
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);2
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);10467
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);981
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);912
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);17
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);5769
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";27522
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";1489
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;569
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);nezistené;1384
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);98
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;445
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;3557
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);7
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);1061
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;17072
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;1262
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);84
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;3236
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;6367
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;926
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);1581
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);346
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);406
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);6
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);244
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";6301
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";366
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;41
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;predproduktívny vek (0-14 rokov);nezistené;334
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;11326
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;14
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;28109
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);nezistené;6708
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);172
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;2303
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;15929
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);170
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);2648
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;30820
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;4102
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);84
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;12523
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;37999
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;13384
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);3
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);9091
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);2278
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);1886
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);13
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);9809
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";38034
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";1427
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;475
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);nezistené;1756
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);164
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;1336
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;15296
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);3020
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;14049
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;1987
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);74
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;2436
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;11396
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;3873
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);1885
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);910
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);585
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);7
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);283
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";4844
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";167
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;94
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;predproduktívny vek (0-14 rokov);nezistené;514
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;13611
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;7
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;33937
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);nezistené;15307
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);331
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;5726
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;22935
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);603
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);4593
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;54745
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;7637
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);119
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;20595
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;35927
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;10640
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);4
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);10699
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);1407
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);1017
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);17
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);6298
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";31202
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";2084
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;858
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);nezistené;1898
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);161
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;962
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;5630
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);7
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);1278
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;18204
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;1531
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);122
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;2971
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;6339
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;1366
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);1346
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);333
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);426
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);17
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);225
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";6277
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";625
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;69
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;predproduktívny vek (0-14 rokov);nezistené;457
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;13164
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;30
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;31736
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);nezistené;10163
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);351
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;5307
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;24805
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);227
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);3731
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;34102
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;5393
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);91
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;11816
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;41756
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;16124
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);3
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);9925
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);2938
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);1994
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);17
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);10091
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";43412
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";2437
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;739
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);nezistené;2339
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);382
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;3228
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;23188
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);2783
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;12684
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;2158
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);157
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;2235
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;11728
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;5471
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);2124
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);1105
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);607
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);12
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);275
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";5471
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";366
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;178
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;predproduktívny vek (0-14 rokov);nezistené;483
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;15900
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;9
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;39960
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);nezistené;9897
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);204
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;3628
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;21493
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);614
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);3792
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;58166
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;6716
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);69
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;26006
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;39183
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;10972
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);12300
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);1051
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);993
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);18
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);6548
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";34166
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";2563
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;877
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);nezistené;1136
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);63
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;559
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;4607
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);12
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);1080
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;16085
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;1192
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);90
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;3032
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;5988
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;1051
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);1489
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);376
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);446
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);8
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);227
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";6884
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";731
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;63
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;predproduktívny vek (0-14 rokov);nezistené;435
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;15508
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;44
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;37484
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);nezistené;6065
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);163
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;2837
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;21816
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);161
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);2963
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;34963
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;4697
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);67
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;13875
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;44913
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;16952
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);2
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);10662
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);2687
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);2414
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);12
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);12498
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";49237
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";2475
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;575
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);nezistené;1553
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);178
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;1670
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;17675
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);2921
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;13123
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;2151
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);108
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;2360
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;11666
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;4116
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);1876
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);1116
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);640
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);9
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);264
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";5503
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";331
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;121
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;predproduktívny vek (0-14 rokov);nezistené;638
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;12979
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;5
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;34044
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);nezistené;11835
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);456
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;6592
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;27248
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);672
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);4493
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;42572
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;5379
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);60
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;18726
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;37154
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;9918
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);7
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);8820
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);1038
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);1006
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);13
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);5238
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";28083
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";1928
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;955
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);nezistené;1469
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);87
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;758
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;4415
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);11
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);1126
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;14835
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;1203
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);93
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;2640
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;7091
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;1138
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);1274
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);356
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);428
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);9
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);250
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";6502
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";548
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;61
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;predproduktívny vek (0-14 rokov);nezistené;607
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;12825
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;10
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;32440
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);nezistené;8391
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);513
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;6333
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;28749
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);239
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);3591
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;26816
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;4086
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);73
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;10811
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;40744
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;14245
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);5
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);8070
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);2410
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);1946
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);11
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);8497
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";39150
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";2071
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;850
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);nezistené;1960
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);226
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;2331
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;17271
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);2654
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;12122
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;2214
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);118
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;2287
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;12651
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;4270
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);1842
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);1002
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);614
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);7
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);249
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";5662
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";329
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;156
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;predproduktívny vek (0-14 rokov);nezistené;1253
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie (bližšie neuvedené);1
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;19515
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;4
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;54638
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);nezistené;12719
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);507
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;8608
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;39497
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);610
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);5011
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;57098
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;6553
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);76
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;25741
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;44155
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;11859
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);12968
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);1269
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);1105
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);19
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);7272
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";37921
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";2085
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;1442
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);nezistené;1431
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);64
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;877
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;5604
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);3
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);1307
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;16953
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;1192
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);61
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;3016
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;7363
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;1305
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);1379
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);349
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);421
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);3
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);231
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";6165
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";492
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;85
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;predproduktívny vek (0-14 rokov);nezistené;1143
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;18960
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;9
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;52007
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);nezistené;9082
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);496
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;8146
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;39695
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);260
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);3971
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;34875
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;5076
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);83
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;14511
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;47481
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;16599
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);2
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);10570
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);2828
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);2087
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);11
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);13813
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";52071
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";2218
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;1196
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);nezistené;1739
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);150
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;2445
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;19660
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);3019
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;13774
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;2114
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);62
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;2389
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;12662
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;4456
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);1875
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);1083
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);539
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);6
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);248
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";4818
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";248
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;227
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;predproduktívny vek (0-14 rokov);nezistené;2037
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;17020
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;1
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;51063
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);nezistené;19200
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);770
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;10421
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;35971
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);723
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);5142
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;44626
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;5788
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);115
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;22176
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;41237
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;12670
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);2
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);10836
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);1385
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);1326
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);17
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);6674
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";39417
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";2962
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;1460
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);nezistené;2237
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);91
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;857
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;3592
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);5
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);1087
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;15507
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;1310
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);150
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;3180
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;8273
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;1343
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);1635
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);397
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);525
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);10
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);227
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";7628
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";1009
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;81
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;predproduktívny vek (0-14 rokov);nezistené;1912
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 1. stupeň základnej školy;16721
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;predproduktívny vek (0-14 rokov);základné vzdelanie - 2. stupeň základnej školy;8
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;predproduktívny vek (0-14 rokov);bez ukončeného vzdelania – osoby vo veku 0-14 rokov;48339
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);nezistené;15470
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie (bližšie neuvedené);707
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 1. stupeň základnej školy;10459
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);základné vzdelanie - 2. stupeň základnej školy;37652
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity (bližšie neuvedené);242
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);4391
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;28969
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;4607
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);95
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;11540
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou odborné;44105
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);úplné stredné vzdelanie s maturitou všeobecné;17751
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie (bližšie neuvedené);3
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);9403
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);3151
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);2599
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie (bližšie neuvedené);16
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);10557
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";52027
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";3147
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;1117
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);nezistené;2823
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie (bližšie neuvedené);249
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 1. stupeň základnej školy;2394
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);základné vzdelanie - 2. stupeň základnej školy;16356
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity a bez výučného listu (zaškolenie, zaučenie);2843
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s výučným listom;13156
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);stredné odborné (učňovské) vzdelanie bez maturity s vysvedčením o záverečnej skúške;2257
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou (bližšie neuvedené);176
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné (učňovské) s výučným listom;2493
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou odborné;14636
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);úplné stredné vzdelanie s maturitou všeobecné;6160
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie nadstavbové (maturita absolventov učebných odborov stredných odborných škôl);2209
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie pomaturitné (pomaturitné kvalifikačné);1261
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);vyššie odborné vzdelanie vyššie odborné (absolventská skúška, absolventský diplom);719
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie (bližšie neuvedené);19
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);vysokoškolské vzdelanie - 1. stupeň (Bc.);276
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 2. stupeň (Ing.; Mgr.; MUDr.; a i.)";6286
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);"vysokoškolské vzdelanie - 3. stupeň (PhD.; a i.)";526
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);bez školského vzdelania – osoby vo veku 15 rokov a viac;206
